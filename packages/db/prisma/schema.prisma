@@ -13,3 +13,11 @@ model User {
   email  String  @unique
   name   String?
 }
+
+// model Transaction
+
+// model Transfer
+
+// model BankTransfer
+
+// model Balance
