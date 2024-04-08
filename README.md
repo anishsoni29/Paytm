@@ -1,8 +1,6 @@
 # Paytm
 
-end to end working paytm application
-
-# Turborepo starter
+## Turborepo starter
 
 This is an official starter Turborepo.
 
@@ -84,7 +82,7 @@ Learn more about the power of Turborepo:
 - [Configuration Options](https://turbo.build/repo/docs/reference/configuration)
 - [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference)
 
-## stack
+## Stack
 
 1. Frontend and Backend - Next.js (or Backend)
 2. Express - Auxilary backends
